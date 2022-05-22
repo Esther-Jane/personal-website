@@ -1,7 +1,7 @@
 # theme: jekyll-theme-minimal
-title: Yaakov Bressler Personal Site
+title: Esther Ben Ami's Personal Site
 description: Welcome to my personal website! (This site is a stub for future work.)
-url: https://yaakovbressler.com
+url: ""
 
 relative_links:
   enabled:     true
@@ -19,27 +19,28 @@ plugins:
   - jekyll-github-metadata
 
 github:
-  repository_url: https://github.com/ybressler/personal-website
-  repository_name: YB Personal Site
-  owner_url: https://github.com/ybressler
+  repository_url: https://github.com/Esther-Jane/personal-website
+  repository_name: My Personal Site
+  owner_url: https://github.com/Esther-Jane
   is_project_page: False
   is_user_page: True
 
-repository: ybressler/personal-website
+repository: Esther-Jane/personal-website
 baseurl: ""
 
 # SEO Stuff
 twitter:
-  username: yaakovbressler
+  username: Lalin_Lua
   card: summary
 
 # User settings
-username: Yaakov Bressler
-user_description: Data Engineer
+username: Esther Ben Ami
+user_description: Writer
 
-twitter_username: yaakovbressler
-linkedin_username: yaakovbressler
-github_username:  ybressler
-medium_username: yaakovbressler
-medium_url: https://yaakovbressler.medium.com/
+instagram_username: toukakat
+twitter_username: Lalin_Lua
+linkedin_username: EstherBenAmi
+github_username:  Esther-Jane
+# medium_username: 
+# medium_url:
 email_form: https://google.com/
