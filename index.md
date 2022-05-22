@@ -8,15 +8,11 @@ menus:
     skip_title: true
     weight: 1
 ---
-# Yaakov Bressler
+# Esther Ben Ami
 Welcome to my personal website.
 
-## Interesting Stuff: <i class="fas fa-star"></i>
-* [Read my tech articles on Medium](https://medium.com/@yaakovbressler)
-
-
 ### More things
-Hi!
+My favorite color is lavendar.
 
 # Sup
 How u doing
