@@ -13,7 +13,7 @@ kramdown:
 ### Build settings ###
 plugins:
   - jekyll-seo-tag
-  - jekyll-menus
+  # - jekyll-menus
   - jekyll-remote-theme
   - jekyll-relative-links
   - jekyll-github-metadata
