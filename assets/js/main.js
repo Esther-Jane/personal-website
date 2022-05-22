@@ -119,7 +119,7 @@ document.addEventListener(
 );
 
 $('section#sparkly-header .headshot').sparkleHover({
-      colors : ['#5B6989', "#B1ACA3",'#D17C68', '#1F2A36'],
+      colors : ['#B2A4D4','#7C7294', '#BCADE0', '#1F2A36'],
       num_sprites: 20,
       lifespan: 1000,
       radius: 500,
@@ -128,7 +128,7 @@ $('section#sparkly-header .headshot').sparkleHover({
     });
 
 $('section#sparkly-header .site-title').sparkleHover({
-      colors : ['#297E97', "#2EB8D5",'#36BEC1'],
+      colors : ['#B2A4D4', '#297E97', "#2EB8D5",'#36BEC1'],
       num_sprites: 22,
       lifespan: 3000,
       radius: 500,

@@ -9,3 +9,5 @@ group :jekyll_plugins do
   gem "jekyll-relative-links"
   gem "jekyll-github-metadata"
 end
+
+gem "webrick", "~> 1.7"
