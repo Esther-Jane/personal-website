@@ -3,7 +3,7 @@ layout: default
 title: Projects
 permalink: personal-website/projects
 menus: Poetry Project 
-  header:
+  header: Projects
     identifier: Projects
     weight: 10
 ---

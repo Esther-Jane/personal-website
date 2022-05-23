@@ -2,8 +2,8 @@
 layout: default
 title: About
 permalink: personal-website/about
-menus: About Me
-  header: 
+menus: 
+  header: About Me
     identifier: about
     weight: 10
 ---
