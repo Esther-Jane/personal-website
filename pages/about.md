@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about
+permalink: personal-website/about
 menus:
   header:
     identifier: about
