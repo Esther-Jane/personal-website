@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+permalink: personal-website/home
 menus:
   header:
     identifier: home
