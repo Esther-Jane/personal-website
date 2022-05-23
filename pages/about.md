@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: personal-website/about
 menus: Projects
-  header: 
+  header: About me
     identifier: about
     weight: 10
 ---
