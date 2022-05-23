@@ -2,8 +2,8 @@
 layout: default
 title: About
 permalink: personal-website/about
-menus: Projects
-  header: Jewish Medieval Poetry Project
+menus: Projects, Jewish Medieval Poetry Project
+  header: 
     identifier: about
     weight: 10
 ---
