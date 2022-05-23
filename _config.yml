@@ -13,7 +13,7 @@ kramdown:
 ### Build settings ###
 plugins:
   - jekyll-seo-tag
-  # - jekyll-menus
+  - jekyll-menus
   - jekyll-remote-theme
   - jekyll-relative-links
   - jekyll-github-metadata
@@ -27,7 +27,7 @@ github:
   is_user_page: True
 
 repository: Esther-Jane/personal-website
-baseurl: ""
+baseurl: "/personal-website"
 
 # SEO Stuff
 twitter:
@@ -42,6 +42,6 @@ instagram_username: toukakat
 twitter_username: Lalin_Lua
 linkedin_username: Esther-Ben-Ami
 github_username:  Esther-Jane
-# medium_username: 
+# medium_username:
 # medium_url:
 email_form: https://google.com/
